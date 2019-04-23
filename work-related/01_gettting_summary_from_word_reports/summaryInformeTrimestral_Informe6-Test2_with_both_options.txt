@@ -1,0 +1,310 @@
+PROGRAMA DE VARIEDADES
+
+------------------------------------------------------------------------------------ 
+
+%%% Mejoramiento y Selección de Variedades
+Proyecto: Cruzamientos
+Figura 1. Tipo y cantidad de polinizaciones realizadas en Colombia (C) y cruzamientos provenientes de México (M) por temporada.
+Proyecto: Fenotipificación de una población de 220 variedades
+
+ &&& En septiembre de 2018 se realizó la cosecha de la plantilla (primer corte) del experimento de fenotipificación sembrado en el ingenio La Cabaña suerte 77, zona agroecológica 6H4. Múltiples variables fueron evaluadas en las 220 variedades sembradas durante este segundo ciclo incluyendo variables agronómicas (altura, población, diámetro, TCH y demás) y sucroquímicas (fibra, sacarosa, ARE y demás), además se recibieron los resultados de fibra larga, corta, medula y fibra total. Los datos tomados de las diferentes variables fueron sometidos a análisis estadísticos usando Meta-R y SAS. Se obtuvo los BLUEs y BLUPs (best linear unbiased estimator-predictor), las heredabilidades, las diferencias mínimas significativas, análisis de covarianza y correlaciones Pearson y genéticas.  && 
+
+Figura 2. Pluviometría primer corte experimento de fenotipificación para la zona húmeda Hda Taula Mejía, suerte 77. 
+
+ &&& Figura 2. Pluviometría primer corte experimento de fenotipificación para la zona húmeda Hda Taula Mejía, suerte 77.   && 
+
+
+ &&& Los resultados de los análisis anteriormente mencionados mostraron una gran variabilidad genética para la mayoría de las variables en los materiales sembrados y diferencias estadísticamente significativas fueron identificadas para la mayoría de estas. Las heredabilidades (valores entre 0 y 1 en donde se indica la proporción de la varianza fenotípica que es explicada por efectos genéticos) fueron desde valores muy bajos a altos (Figura 3, Figura 4, Figura 5, Figura 6). Heredabilidades para TCH y sacarosa fueron entre intermedias a altas (0.62 y 0.77 respectivamente) lo que indica que la varianza genética es la que explica la mayor proporción del fenotipo observado en campo y que hubo un buen control del ambiente para estas dos variables. El Cuadro 1 presenta las estadísticas globales para las variables evaluadas en el experimento de fenotipificación zona húmeda corte 1.  && 
+
+Figura 3. Heredabilidades obtenidas en variables evaluadas a 4.2 meses de edad en experimento de fenotipificación de 220 variedades hacienda Taula Mejía, suerte 77 corte 1.
+
+ &&& Figura 3. Heredabilidades obtenidas en variables evaluadas a 4.2 meses de edad en experimento de fenotipificación de 220 variedades hacienda Taula Mejía, suerte 77 corte 1.  && 
+
+Figura 4. Heredabilidades obtenidas en variables evaluadas a 6.8 meses de edad en experimento de fenotipificación de 220 variedades hacienda Taula Mejía, suerte 77 corte 1.
+
+ &&& Figura 4. Heredabilidades obtenidas en variables evaluadas a 6.8 meses de edad en experimento de fenotipificación de 220 variedades hacienda Taula Mejía, suerte 77 corte 1.  && 
+
+Cuadro 1. Estadísticas globales para las variables evaluadas en el experimento de fenotipificación corte 1 en la hacienda Taula Mejía, suerte 77.
+
+ &&& Cuadro 1. Estadísticas globales para las variables evaluadas en el experimento de fenotipificación corte 1 en la hacienda Taula Mejía, suerte 77.  && 
+
+Figura 5. Heredabilidades obtenidas en variables evaluadas a 10.2 meses de edad en experimento de fenotipificación de 220 variedades hacienda Taula Mejía, suerte 77 corte 1.
+
+ &&& Figura 5. Heredabilidades obtenidas en variables evaluadas a 10.2 meses de edad en experimento de fenotipificación de 220 variedades hacienda Taula Mejía, suerte 77 corte 1.  && 
+
+Figura 6. Heredabilidades obtenidas en variables evaluadas a 10.2 meses de edad en experimento de fenotipificación de 220 variedades hacienda Taula Mejía, suerte 77 corte 1.
+
+ &&& Figura 6. Heredabilidades obtenidas en variables evaluadas a 10.2 meses de edad en experimento de fenotipificación de 220 variedades hacienda Taula Mejía, suerte 77 corte 1.  && 
+
+Figura 7. Distribución sacarosa porciento caña en experimento de fenotipificación zona húmeda, corte 1.
+
+ &&& Figura 7. Distribución sacarosa porciento caña en experimento de fenotipificación zona húmeda, corte 1.  && 
+
+Figura 8. Distribución TCH en experimento de fenotipificación zona húmeda, corte 1.
+
+ &&& Figura 8. Distribución TCH en experimento de fenotipificación zona húmeda, corte 1.  && 
+
+Figura 9. Sacarosa % caña versus TCH en experimento de fenotipificación de 220 variedades zona húmeda, corte 1.
+
+ &&& Figura 9. Sacarosa % caña versus TCH en experimento de fenotipificación de 220 variedades zona húmeda, corte 1.  && 
+
+
+ &&& Los resultados de análisis de correlaciones genéticas mostro que algunas de las variables evaluadas correlacionan de manera significativa, las Figura 10 presentan las correlaciones y sus valores de P para TCH y sacarosa versus todas las variables. Es de resaltar que algunas de las correlaciones mencionadas aquí también fueron observadas en previas experimentaciones (zona semiseca, Balsora corte 2). Por ejemplo, TCH correlacionado con longitud de las hojas, población, altura de tallos, diámetro de tallos (esta última de manera negativa); y sacarosa correlacionado con diámetro de tallos y amplitud de las hojas.  && 
+
+Figura 10. Correlaciones genéticas de sacarosa % y TCH vs demás variables en experimento de fenotipificación de 220 variedades hacienda Taula Mejía 77 cortes 1.
+
+ &&& Figura 10. Correlaciones genéticas de sacarosa % y TCH vs demás variables en experimento de fenotipificación de 220 variedades hacienda Taula Mejía 77 cortes 1.  && 
+
+
+ &&& Se recibieron los datos de variables fisiológicas por parte del área de agronomía. El análisis de esta información muestra que hay alta variabilidad debido a efectos genéticos para asimilación máxima de CO2, respiración, eficiencia en el uso de la luz y eficiencia en el uso del agua. Las heredabilidades en consecuencia, fueron de medias a altas y hubo diferencias estadísticas significativas para todas estas variables (Cuadro 2). Para esta información, también se realizó un análisis factorial incluyendo TCH y sacarosa %. Los resultados muestran que, para este ambiente, las correlaciones parciales entre TCH/sacarosa % y demás variables fueron bajas muy bajas (entre 0.01 y 0.12) (Cuadro 3).  && 
+
+Cuadro 2. Estadísticas para variables fisiológicas en experimento de fenotipificación zona húmeda, corte 1.
+
+ &&& Cuadro 2. Estadísticas para variables fisiológicas en experimento de fenotipificación zona húmeda, corte 1.  && 
+
+Cuadro 3. Correlaciones parciales para variables fisiológicas, TCH y sacarosa en experimento de fenotipificación zona húmeda, corte 1.
+
+ &&& Cuadro 3. Correlaciones parciales para variables fisiológicas, TCH y sacarosa en experimento de fenotipificación zona húmeda, corte 1.  && 
+
+
+ &&& Además de las variables fisiológicas, también se recibió la información de fibras (fibra larga-corta, medula y fibra total) por parte del programa de fábrica. El análisis de esta información arroja heredabilidades de medias a altas (0.45 a 0.85) excepto para fibra corta (0.28) y diferencias estadísticas significativas entre variedades para todas las variables. Para fibra corta, el valor de heredabilidad fue similar, bajo, al encontrado para en condición seca en el experimento de Balsora corte 2 (Cuadro 4).  && 
+
+Cuadro 4. Estadísticas para variables de fibras, TCH y sacarosa en experimento de fenotipificación zona húmeda, corte 1.
+
+ &&& Cuadro 4. Estadísticas para variables de fibras, TCH y sacarosa en experimento de fenotipificación zona húmeda, corte 1.  && 
+
+
+ &&& En el análisis factorial de fibras versus TCH y Sacarosa se demuestra nuevamente que la sacarosa y la medula están relacionadas positivamente y estas a su vez están en contraposición a la fibra larga y fibra total (Figura 11, Figura 12, Figura 13). Estos resultados soportan lo observado en experimento de fenotipificación para condición seca-semiseca, en donde los patrones fueron muy similares.   && 
+
+Figura 11. TCH versus fibra larga %, fibra corta % y medula % en experimento de fenotipificación de 220 variedades hacienda Taula mejía suerte 77, corte 1.
+
+ &&& Figura 11. TCH versus fibra larga %, fibra corta % y medula % en experimento de fenotipificación de 220 variedades hacienda Taula mejía suerte 77, corte 1.  && 
+
+Figura 12. Sacarosa % caña versus fibra larga %, fibra corta % y medula % en experimento de fenotipificación de 220 variedades hacienda Taula Mejía suerte 77, corte 1.
+
+ &&& Figura 12. Sacarosa % caña versus fibra larga %, fibra corta % y medula % en experimento de fenotipificación de 220 variedades hacienda Taula Mejía suerte 77, corte 1.  && 
+
+Figura 13. Análisis factorial de TCH, sacarosa y fibras experimento de fenotipificación de 220 variedades hacienda Taula Mejía suerte 77, corte 1.
+
+ &&& Figura 13. Análisis factorial de TCH, sacarosa y fibras experimento de fenotipificación de 220 variedades hacienda Taula Mejía suerte 77, corte 1.  && 
+
+
+ &&& Varias dificultades se presentaron en el desarrollo de esta experimentación. Una de ellas debido a falta de seguridad en el área donde se encuentra ubicado el experimento. Esto ocasionó que evaluaciones a algunas edades no fueran tomadas. Además, se presentaron inconvenientes en la cosecha, se realizó cosecha no programada, esto resulto en perdida de datos ya que solo se pudo evaluar TCH y variables sucro-químicas para dos repeticiones (toda la información de la tercera repetición fue perdida).   && 
+
+Proyecto: Adopción y seguimiento de variedades por etapas
+
+ &&& Se realizó la cosecha de la plantilla de la prueba de Adopción de variedades por etapas, ubicada en el Ingenio Providencia, hacienda Samaria, suerte 163Z, zona agroecológica 6H1 y consociación corintias (CT). El ensayo se estableció un diseño alfa lattice con dos repeticiones, las variedades evaluadas fueron CC 04-195, CC 05-430, CC 09-066, CC 09-235, CC 09-388, CC 09-702 y los testigos CC 85-92 y CC 01-1940, la edad de corte fue de 13.9 meses y el manejo establecido por el ingenio fue orgánico.  && 
+
+Figura 14. Precipitación y evapotranspiración hacienda Samaria, suerte 163Z.
+Cuadro 5. Comparación de medias de las variedades evaluadas en la hacienda Samaria.
+Figura 15. Gráfica de Isoproductividad, Hacienda Samaria, suerte 163Z, ZA 6H1, consociación corintias. Plantilla, 2019.
+Figura 16. Curva de maduración hacienda Samaria, suerte 163Z, ZA 6H1, consociación corintias, Plantilla, 2019.
+
+ &&& Las variedades evaluadas respondieron favorablemente tanto en sacarosa como en tonelaje al manejo orgánico establecido por el ingenio. Se debe continuar con el seguimiento de las variedades en la primera y segunda soca, con la finalidad de tener mayor información que contribuya al conocimiento de las variedades y la respuesta a los diferentes manejos.  && 
+
+Proyecto: Manejo de estaciones cuarentenarias
+
+ &&& Proyecto: Manejo de estaciones cuarentenarias  && 
+
+Cuadro 6.  Variedades CC enviadas a la Fundação de Apoio Institucional ao Desenvolvimento Cientifico e Tecnológico FAI CNP /UNIVERSIDADE FEDERAL SÃO CARLOS - UFSCa.
+Cuadro 7. Variedades enviadas a México para ser usadas por Cenicaña en cruzamientos en el CIDCA.*
+Proyecto: Manejo sanitario
+
+ &&& Proyecto: Manejo sanitario  && 
+
+SubProyecto: Monitoreo de roya naranja en la CC 01-1940
+
+ &&& Se han realizado visitas a haciendas y suertes de cuatro ingenios y un proveedor, la severidad en general ha estado entre el 1 a 15% y la reacción entre 5 y 6.  En el ingenio Sancarlos, se encontraron dos haciendas (Silencio y Argelia) con edad entre los ocho meses con plantas afectadas con roya naranja con una reacción de 6 y severidad del 15%, valores que muestran la inminente susceptibilidad de la variedad a la enfermedad bajo determinadas condiciones ambientales (Cuadro 8).   && 
+
+Figura 17. Severidad de la roya naranja en la variedad CC 01-1940 de acuerdo a la edad del cultivo.
+Cuadro 8. Monitoreo de roya naranja en cinco ingenios del Valle del cauca
+SubProyecto: Resistencia de CC 01-1940: Inoculación en condiciones controladas
+
+ &&& Se evaluó la reacción de la variedad CC 01-1940 a roya naranja. Como testigos se tuvieron una variedad susceptible (CC 01-1884), tres variedades resistentes (CC 93-4418, CC 85-92 y B 43-62). La evaluación se hizo mediante la aspersión del inóculo obtenido de variedades enfermas bajo condiciones de campo, en plantas de dos meses de edad que fueron llevadas durante 12 horas a condiciones de cámara de inoculación (20°C, HR 90%) y posteriormente a condiciones de invernadero durante 4 semanas (30°C, HR 60%). Para los resultados de la reacción se usó la escala de Purdy & Dean, (1980) y de la severidad el programa Asses 2.0. La variedad CC 01-1940, al igual que el testigo susceptible (CC 01-1884), presentaron valores en la reacción por encima de 5 y en la severidad superior a 12%, lo que las califica como variedades susceptibles a la enfermedad. Los valores de la reacción y la severidad en los testigos resistentes fueron de 5 e inferiores a 12%, respectivamente (Figura 18,Cuadro 9).  && 
+
+Cuadro 9. Reacción varietal a roya naranja de la variedad CC 01-1940. Se resalta con rojo el testigo susceptible y con verde los testigos resistentes  
+Figura 18. Reacción varietal a roya naranja de CC 01-1940 bajo condiciones controladas
+Proyecto: Servicio de inspección fitopatológica en campo y laboratorio
+SERVICIO DE MULTIPLICACIÓN Y PROPAGACIÓN DE VARIEDADES
+Figura 19). 
+Cuadro 10. Inspecciones fitopatológicas realizadas en el primer trimestre del año 2019
+Figura 19. Número de plantas solicitadas y entregadas a ingenios, proveedores y entidades en convenio de diferentes variedades CC.
+Servicio de diagnÓstico DE ENFERMEDADES
+Cuadro 11. Incidencia, prevalencia y máximos detectados en lotes semilleros y comerciales para Raquitismo de la Soca (RSD), Escaldadura de la Hoja (LSD) y Virus de la Hoja Amarilla (SCYLV) de muestras provenientes de ingenios, proveedores y entidades en convenio evaluadas hasta marzo de 2019. 
+Cuadro 12. Incidencia, prevalencia y máximos detectados para virus de la hoja amarilla (SCYLV) en análisis de lotes comerciales y semilleros por variedades provenientes de ingenios, proveedores y entidades en convenio evaluados en primer trimestre del 2018 y 2019. 
+SubProyecto: Validación métodos de diagnóstico
+
+ &&& Se validaron los métodos de detección de los microorganismos patógenos de mayor importancia económica utilizados en el Servicio Diagnóstico de Enfermedades, siguiendo la metodología propuesta por Pita y Pertégas (2003). Los resultados mostraron que la capacidad de los métodos para detectar los virus del SCYLV, SCMV y SCBV y las bacterias Xanthomonas albilineas y Leifsonia xyli subsp. xyli en plantas enfermas de caña de azúcar está entre el 98 y 100%. La capacidad de no detectar estos patógenos no estando presentes en la planta es del 100%. La probabilidad de obtener un resultado positivo (presencia de los microorganismos mencionados) estando la planta sana oscila entre 0 y 0.014%. La probabilidad de que una planta enferma resulte negativa con estos métodos es del 0%. La probabilidad de obtener un resultado negativo (ausencia de los microorganismos mencionados) en una planta sana es del 100% y la probabilidad de diagnosticar una planta enferma como positiva es del 100%.    && 
+
+Proyecto: DESARROLLO DE VARIEDADES DE CAÑA DE AZÚCAR CON ALTO POTENCIAL DE PRODUCTIVIDAD MEDIANTE SELECCIÓN ASISTIDA POR MARCADORES MOLECULARES (SAM)
+SubProyecto: Resistencia a roya Café
+Figura 20). 
+Cuadro 13. Reacción varietal a roya café bajo condiciones de invernadero. Se resaltan con rojo los testigos susceptibles, con anaranjado los testigos de reacción intermedia y con verde los testigos resistentes (los testigos se seleccionaron de acuerdo a la reacción a la enfermedad que presentan bajo condiciones de campo)
+Figura 20. Reacción de las 41 variedades de caña de azúcar inoculadas con P. melanocephala colectada de CP 57-603. Se resaltan con rojo los testigos susceptibles, con anaranjado los testigos de reacción intermedia y con verde los testigos resistentes 
+SubProyecto: Resistencia a roya naranja
+
+ &&& El método de inoculación empleado y las condiciones del experimento permitieron la caracterización de las variedades según su respuesta a la infección. 18 (47.4%) de las 38 variedades evaluadas fueron resistentes a la enfermedad (severidad  12% según el programa Asses 2.0 y reacción  5 en la escala Purdy & Dean, 1980). El 39.5% de las variedades presentaron la severidad entre 5.1-12%, el 36.8% la presentaron por encima del 50%, y el 13.1% entre 20-50%. Los valores de la reacción encontrados con mayor frecuencia fueron 5 (en el 47.3% de las variedades), 6 (en el 23.7% de las variedades), y 7 (en el 18.4% de las variedades) (Cuadro 14, Figura 21).  && 
+
+Cuadro 14. Reacción varietal a roya naranja bajo condiciones de invernadero. Se resaltan con rojo los testigos susceptibles, con anaranjado los testigos de reacción intermedia y con verde los testigos resistentes (los testigos se seleccionaron de acuerdo a la reacción a la enfermedad que presentan bajo condiciones de campo)
+Figura 21. Reacción de las 38 variedades de caña de azúcar inoculadas con P. kuehnii. Se resaltan con rojo los testigos susceptibles, con anaranjado los testigos de reacción intermedia y con verde los testigos resistentes.
+Proyecto: Evaluación de la resistencia a roya café y roya naranja en nuevas variedades cc    
+Cuadro 15. Reacción de las variedades nuevas a roya café bajo condiciones de invernadero. Se resaltan con rojo los testigos susceptibles, con anaranjado los testigos de reacción intermedia y con verde los testigos resistentes.  
+Figura 22. Reacción de las variedades nuevas inoculadas con roya café. Se resaltan con rojo los testigos susceptibles, con anaranjado los testigos de reacción intermedia y con verde los testigos resistentes. 
+Cuadro 16. Reacción de las variedades nuevas CC a roya naranja bajo condiciones de invernadero. Se resaltan con rojo los testigos susceptibles, con anaranjado los testigos de reacción intermedia y con verde los testigos resistentes.
+Figura 23. Reacción de las variedades nuevas inoculadas con roya naranja. Se resaltan con rojo los testigos susceptibles, con anaranjado los testigos de reacción intermedia y con verde los testigos resistentes (los testigos se seleccionaron de acuerdo a la reacción a la enfermedad que presentan bajo condiciones de campo).
+Proyecto: Actualidad de las poblaciones de Diatraea y el salivazo en el valle del río Cauca
+
+ &&& Con información proveniente de las áreas de Agronomía de los diferentes ingenios se viene consolidando una base de datos mensual acerca del indicador del daño por Diatraea spp. en la industria. A pesar de que casi todos los ingenios superan el umbral de 2,5% propuesto por Cenicaña como máximo permitido, entre diciembre del 2018 y febrero del 2109 se observa la tendencia a la disminución de los niveles de daño, donde el caso más notorio lo presenta Risaralda, que pasó de un valor de 6,15% en diciembre del 2018 a uno de 3,81% en febrero del 2019 (Figura 24). Lo anterior obedece a los esfuerzos que la industria ha venido adelantando con relación al monitoreo de la plaga y las liberaciones de los insectos benéficos; sin embargo, es de notar que todavía se sigue trabajando en tareas de capacitación a los agricultores en el tema del manejo de la plaga y se adelanta investigación de alternativas de manejo de la misma.  && 
+
+Figura 24. Porcentaje de entrenudos barrenados promedio en diferentes ingenios durante los meses de diciembre del 2018 y febrero del 2019. En Castilla durante los meses de enero y febrero se restructuró la cuadrilla de evaluación y se suspendió temporalmente la labor. 
+
+ &&& La distribución actual de esta plaga abarca campos desde el municipio de El Cerrito hasta Cartago en el norte de la región, por lo que se tiene que muchos de los ingenios del centro-sur todavía no están reportando su presencia y por lo tanto no realizan tareas de control. A partir de reuniones trimestrales de los ingenios afectados se ha podido estimar que en el 2018 se aplicaron un total de 3.236,8 hectáreas; al menos en las áreas de manejo directo, siendo los ingenios Sancarlos y Riopaila los más afectados (Cuadro 17) y siendo CC 01-1940 la variedad más atacada por la plaga. En lo que va corrido del 2019 se tiene un total de 157,3 hectáreas aplicadas, donde de nuevo estos dos ingenios han sido los más afectados. Los productos aplicados van desde los tradicionales Neonicotinoides tiametoxam e imidacloprid, hasta los nuevos compuestos investigados por Cenicaña y Sancarlos como extractos botánicos a base del árbol del Neem, mezclas de ajo-ají y mezclas sulfocálcicas. Es de anotar que en algunos casos se están aplicando productos químicos con mezclas a base de compuestos del grupo de los piretroides, que constituyen insecticidas de amplio espectro que afectan negativamente los esfuerzos de control biológico de los barrenadores del tallos Diatraea spp. y el control biológico natural que existe sobre otros insectos en el cultivo, que en un futuro pueden resultar en explosiones poblacionales de plagas secundarias. Lo anterior sugiere la necesidad de trabajar más en la capacitación a los agricultores sobre las alternativas de manejo disponibles, de recomendar nuevas variedades en los procesos de renovación y en estructurar una política de manejo de maquinaria y de movimiento de material vegetal desde las diferentes zonas infestadas, buscando evitar la diseminación de la plaga.  && 
+
+Cuadro 17. Áreas aplicadas (hectáreas) con diferentes tipos de insecticidas para el control del salivazo Aeneolamia varia en diferentes ingenios.
+
+ &&& Alternativas para el manejo del salivazo Aeneolamia varia en caña de azúcar  && 
+
+
+ &&& En cuanto a la distribución del insecto en el valle del río Cauca se tienen reportes de ataques desde el municipio de El Cerrito y hasta el municipio de Cartago al norte de la región. Este incremento poblacional se puede haber visto favorecido por la modificación en las labores del cultivo (incremento de áreas de no quema) y procesos de renovación varietal, utilizando cultivares de mayor productividad, pero que presentan niveles de susceptibilidad a la plaga (CC 01-1940). Caso similar ha sucedido en Brasil donde la expansión de las plantaciones de caña de azúcar y la eliminación gradual de algunas labores como la quema antes de la cosecha han contribuido al aumento de la población de salivazo, en este caso de un complejo de especies de Mahanarva, generando niveles de importancia económica de la plaga y necesidades adicionales de monitoreo y control (Korndorfer et al. 2010).   && 
+
+
+ &&& Como medidas temporales de choque durante los primeros años desde la detección de A. varia en el valle del río Cauca se evaluaron diferentes productos de síntesis química tales como: tiametoxam, carbofuran, spirotetramat, imidacloprid y carbaril; obteniendo los mejores resultados en la disminución de las poblaciones de la plaga con tiametoxam e imidacloprid, los cuales han sido usados desde entonces como opción de choque ante altos niveles poblacionales de A. varia. Adicionalmente, se avanzaron trabajos de investigación en la búsqueda de alternativas de control biológico como el uso de hongos entomopatógenos (Matabanchoy et al. 2012), nematodos entomopatógenos (Rosero et al. 2012), depredadores en un enfoque de control biológico por conservación (Granobles et al. 2012) y resistencia varietal (Cuarán et al. 2012); todo lo anterior en la búsqueda de eliminar la dependencia exclusiva de insecticidas químicos, ante su potencial impacto negativo en el agroecosistema de la caña de azúcar, que tradicionalmente se ha basado en el control biológico, especialmente en el manejo de los barrenadores del tallo Diatraea spp.  && 
+
+
+ &&& Según Auteri et al. (2017) estas sustancias son persistentes en el ambiente y en el suelo donde tienen la posibilidad de traslocarse a la planta tratada y crear un potencial de rutas de exposición específicas para los polinizadores, incluido el polen, néctar, y fluidos de gutación. Por lo anterior estos insecticidas han sido prohibidos para la unión europea a partir de diciembre del 2018 y se prevé que en Colombia exista reglamentación restrictiva de su uso dado que existen iniciativas en el congreso de la república de legislar en beneficio de este tema de la crisis de las abejas. A pesar de que las áreas tratadas con insecticidas químicos en la región no son representativas en cuanto al total de área sembrada en caña y que la aplicación de estos productos no ocurre de forma periódica en los diferentes ciclos de cultivo, se tiene la necesidad de disponer de alternativas que sustituyan su uso, sin afectar la eficiencia del manejo de la plaga. Adicionalmente la industria ha encontrado en la siembra de cañas orgánicas un área de interés desde los puntos de vista de la sostenibilidad ambiental y financiera, lo que establece la necesidad de disponer de alternativas para el manejo de los focos de la plaga. Este reporte contiene esfuerzos de investigación en los últimos dos años en la zona centro del valle del río Cauca, donde mediante trabajos cooperativos entre el ingenio Sancarlos, diferentes casas comerciales y Cenicaña se evaluaron en condiciones de campo, y en dos experimentos independientes, la eficacia de diferentes productos de síntesis química y de tipo biológico.  && 
+
+
+ &&& Para esta experimentación se seleccionó un campo comercial con 1,2 meses de edad, sembrado con la variedad CC 01-1940 y con un área de 20,9 hectáreas. El experimento fue realizado entre el 18 de mayo al 22 de junio de 2017. El experimento contó con un diseño completamente al azar con seis repeticiones (parcelas) por tratamiento y un tratamiento testigo sin aplicación. La dimensión de cada una de las parcelas fue de 25x25 metros para un área neta por parcela de 625 m2. Cada parcela constó de 14 surcos de los cuales se consideraron 12 efectivos para las evaluaciones, descartando los surcos 1 y 14 para las observaciones, pero que igualmente fueron aplicados. En cada parcela cada surco fue identificado numerándolos entre el 1 y el 14, y en cada una de ellas se realizó una evaluación preliminar no destructiva (12 puntos, 2 por surco y dejando surco de por medio) para hacer el sorteo en los tratamientos haciendo un bloqueo por nivel de infestación, es decir que las parcelas con las poblaciones más altas fueron distribuidas equitativamente entre los diferentes tratamientos y así para las parcelas de infestación intermedia y baja, esto se realizó en atención a la dispersión agregada de la plaga en campo.  && 
+
+
+ &&& El Cuadro 18 indica los productos y dosis utilizadas en la experimentación. En este experimento se incluyó un testigo biológico, la cepa CeMa 9236 de Metarhizium anisopliae, que es usada de manera comercial en el manejo de la plaga y correspondiente a la cepa evaluada por Cenicaña como una de las de mayor eficacia en el manejo de la plaga. Cada representante de los diferentes tratamientos definió las condiciones requeridas para la correcta aplicación de su producto, sin embargo, todos emplearon los equipos y personal encargado de aplicación del ingenio Sancarlos.  && 
+
+Cuadro 18. Ingredientes activos (productos comerciales) y dosis empleadas en la validación de productos de síntesis química para el control de las poblaciones de salivazo.  
+
+ &&& Para este experimento fue seleccionado un lote ubicado en el municipio de San Pedro, que al momento del estudio tenía 2,2 meses, sembrado con la variedad CC 01-1940 y con un área de 13,67 hectáreas. El experimento fue realizado entre el 18 de enero al 21 de febrero de 2018.  && 
+
+
+ &&& El experimento consistió en un diseño completamente al azar con seis repeticiones (parcelas) por tratamiento y un tratamiento testigo sin aplicación. Cada parcela estuvo conformada por 6 surcos efectivos para la aplicación de los productos, los cuales fueron marcados de 1 a 6. Contrario al experimento anterior, una vez se estableció el nivel de población en una primera evaluación se realizó una evaluación no destructiva (sin remover el suelo donde estaban las ninfas) de las poblaciones en todas las parcelas empleando 12 puntos fijos, tomando 2 puntos por surco de forma alterna. Al igual que en el experimento anterior las parcelas fueron sorteadas dentro de los tratamientos de acuerdo con su nivel de infestación, es decir que las parcelas fueron distribuidas equitativamente entre los tratamientos acorde con los niveles poblacionales (alto, intermedio y bajo).  && 
+
+
+ &&& Las evaluaciones se realizaron semanalmente a partir de una previa antes de la aplicación, que se hizo en cada parcela evaluando los puntos fijos que se establecieron para el seguimiento. Cada punto de evaluación estaba compuesto de un metro lineal que fue marcado empleando cinta reflectiva en el inicio y final del mismo. Los puntos se ubicaron a los 1 y 5m (surcos 1 y 4 respectivamente), 3 y 7m (surcos 2 y 5) y a los 5 y 9 m (surcos 3 y 6m). Cabe mencionar que el objetivo de evaluaciones no destructivas buscaba la observación del mismo punto de muestreo durante el seguimiento, evitando el incremento de la variación en las variables medidas, aspecto observado durante el primer experimento y corregido en este segundo. El seguimiento se realizó en un total de 3 semanas luego de la primera evaluación, para un total de 21 días de observación. En cada evaluación se midieron 12 metros lineales de surco por parcela, para un total de 72 metros lineales por tratamiento. En cada una de las evaluaciones y dentro de cada metro lineal por surco se contaron las salivas (asumiendo que una saliva correspondía a una ninfa) y adultos, revisando el suelo que rodea la cepa de caña de azúcar.   && 
+
+
+ &&& El Cuadro 19  indica los productos (ingredientes activos) y dosis consideradas para la evaluación de los bioplaguicidas empleados para el control de salivazo. En este experimento se incluyó un testigo químico para efectos de comparación. Los insecticidas botánicos fueron productos comerciales a base del árbol de Neem (Azadirachta indica), ajo (Capsicum annum), ají (Allium sativum) y sus combinaciones. Se incluyeron dos dosis del hongo entomopatogeno y una dosis del nematodo entomopatogeno Heterorhabditis bacteriophora. Cada representante de los diferentes tratamientos definió las condiciones requeridas para la correcta aplicación de su producto; sin embargo, todos emplearon los equipos y personal encargado de aplicación del ingenio Sancarlos  && 
+
+Cuadro 19. Ingredientes activos (productos comerciales) y dosis empleadas en la validación de productos biológicos para el control de las poblaciones de salivazo.   
+Figura 25. Promedio de ninfas de salivazo (A. varia) por tratamiento en un campo comercial del ingenio Sancarlos, durante cinco semanas después de la aplicación de diferentes productos químicos (día 0), frente a un testigo biológico (M. anisopliae) y uno sin aplicación. Las letras indican diferencias entre los tratamientos en la última semana de evaluación (DMS, α = 0,05). 
+Figura 26. Promedio del número de ninfas de salivazo por tratamiento (± intervalo de confianza del 95%), durante tres semanas consecutivas después de la aplicación de diferentes tratamientos a base de extractos vegetales, hongos y nematodos entomopatógenos (21, 28 y 35 días después de la aplicación - dda), frente a un testigo químico (Actara) y uno absoluto. Los asteriscos negros indican diferencias entre los tratamientos y el testigo absoluto (DMS, α = 0,05).
+
+ &&& Los insecticidas botánicos a base del árbol de Neem, ajo (Capsicum annum), ají (Allium sativum) y sus combinaciones; lograron reducir las poblaciones de la plaga a niveles semejantes de los observados en el testigo químico (tiametoxam), lo que demuestra que existen alternativas de productos biológicos para sustituir el uso de Neonicotinoides en el manejo de estos insectos plaga, mucho más en el caso de los campos de producción orgánica.   && 
+
+
+ &&& El efecto de productos biológicos en el control de plagas ha sido evaluado con resultados positivos en otros cultivos; casos como el reportado por Niño et al. (2007), donde encontraron 11 extractos vegetales que presentaron actividad inhibitoria sobre la broca del café. En el departamento de Nariño lograron también reducir los niveles poblacionales de la polilla guatemalteca (Tecia solanivora), empleando extractos de ajo y ají, eucalipto y ruda, encontrando respuesta de cada producto en las diferentes localidades donde fueron evaluados (Salazar y Betancourth 2009). Ejemplos como los mencionados demuestran que los bioplaguicidas son una alternativa disponible para el manejo de plagas encaminados en una agricultura ambientalmente sostenible.   && 
+
+
+ &&& En conclusión, los productos de síntesis química pertenecientes al grupo de los Neonicotinoides mantuvieron sus niveles de control sobre las poblaciones de la plaga, pero dado los impactos que el uso excesivo de estos genera sobre el ambiente, se tienen alternativas de composición biológica como una herramienta en desarrollo con gran potencial para el manejo de plagas, en este caso particular del salivazo Aeneolamia varia. Se debe seguir trabajando en la obtención de nuevas alternativas que puedan ser combinadas con los productos botánicos estudiados aquí, haciendo especial énfasis en los hongos y nematodos entomopatógenos en los cuales Cenicaña invirtió gran cantidad de esfuerzo en investigación y que con la excepción de la dosificación de 2 kg/ha del hongo entomopatógeno, hasta la fecha no constituyen alternativas tecnológicas efectivas y/o disponibles para el manejo de esta plaga.  && 
+
+Proyecto: Plantas producidas a partir de callo embriogénico de dos variedades de caña de azúcar para evaluar variación somaclonal en campo.
+
+ &&& Objetivo: Enraizar las plantas obtenidas a partir de callo embriogénico de CC 01-1940 y CC 85-92 para evaluación de variación somaclonal.  && 
+
+
+ &&& Con el objetivo de enraizar los brotes obtenidos a partir de callo embriogénico de las variedades CC 01-1940 y CC 85-92, se sembraron en medio de enraizamiento con Cisteína. (Cuadro 20).   && 
+
+Cuadro 20 : Medio de enraizamiento
+Figura 27: Plantas enraizadas listas para llevar a invernadero de las variedades CC 01-1940 y CC 85-92.
+SubProyecto: Transplante de plantas en invernadero (endurecimiento)
+Figura 28: Trasplante de plantas in vitro a panales a partir de callo embriogénico   en invernadero.
+
+ &&& Se sembraron 25 panales de la variedad CC 85-92 y 30 panales de la variedad CC 01-1940. A la fecha hay un total de 1675 plantas de CC 85-92 y 1400 plantas de CC 01-1940 bien elongadas y establecidas (Figura 29). Por otro lado, hay un número de plantas de CC 01-1940 que se han demorado en establecerse debido a que en un principio los panales se colocaron cerca a los humidificadores y la humedad estaba afectando el desarrollo de las plantas, por ende, todos los panales se reubicaron a una mesa alejada de los humidificadores en donde se ha notado una mejor respuesta de las plantas que tenían desarrollo tardío (Figura 30).  && 
+
+Figura 29: Plantas establecidas en el invernadero después de un mes y medio de siembra. A) CC 01-1940 B) CC 85-92
+Figura 30: Distribución de plantas in vitro a partir de callo embriogénico de CC 01-1940 y CC 85-92 en el invernadero
+Figura 31. Evaluación molecular de las plantas del ensayo E211217, trasnformadas con los genes Gus plus y NPTII. C+: Control Positivo, C-: Control negativo, Mp: marcador de peso
+
+ &&& Para los otros plásmidos a disparar, los resultados fueron los siguientes  && 
+
+
+ &&& Se tomaron dos cajas de callo bombardeado con la cantidad de ADN propuesto por UF y dos cajas con la cantidad de ADN propuesto por Cenicaña, los cuales habían sido transformadas con el gen Gus plus y se pusieron en buffer para realizar la prueba de expresión de la β-glucoronidasa. Posteriormente se realizó el conteo de los puntos azules, producto de la expresión de la enzima, los resultados de este ensayo fueron los siguientes:  && 
+
+
+ &&& Objetivos:   && 
+
+
+ &&& Hacer una comparación de los resultados GWAS usando dos genomas de referencia (Sorghum bicolor y Saccharum spontaneum) para variables relacionadas con la producción de sacarosa y TCH.  && 
+
+
+ &&& Exponer los resultados de los análisis GWAS usando como genoma de referencia el genoma de S. spontaneum para un total 112 variables fenotípicas colectadas en experimentos en campo (3) y en invernadero (1).  && 
+
+
+ &&& Objetivo 1: Introducción al flujo de trabajo de Biotecnología en el proyecto SAM  && 
+
+
+ &&& En el Paso 1 (Figura 32) se hace énfasis en los procesos de genotipificación y fenotipificación, necesarios para ejecutar el análisis de GWAS. Específicamente, los fenotipos colectados hasta la fecha provienen de experimentos establecidos en: Ingenio Castilla (167 individuos, plantilla), Ingenio Mayagüez, hacienda Balsora (220 individuos, plantilla y soca) e invernadero (218 individuos, caracterización para resistencia al salivazo). Los genotipos/marcadores recolectados hasta la fecha ha incluido la población de 220 individuos y se ha utilizado los genomas de S. bicolor y S. spontaneum como genomas de referencia. Para cada uno de estos casos se obtuvieron 19, 968 y 32,024 marcadores, respectivamente.   && 
+
+
+ &&& El Paso 2 (P2, Figura 32) hace referencia a las asociaciones genotipo-fenotipo mediante un modelo MLM (ecuación 1) (Henderson, 1984) (ver Informe Trimestral III de 2018 para mayor explicación) y el Paso 3 (ver video parte1 y parte2 para mayor explicación),, hace nota a los resultados (a menudos representados en una tabla consolidada) de los análisis de asociación. Las asociaciones genotipo-fenotipo se hacen teniendo en cuenta un valor p menor al valor crítico de 1 x 10-5 y hasta el momento se han creado las tablas consolidadas para las asociaciones significativas con los genomas de referencia: S. bicolor (ver Informe Trimestral III de 2018) y S. spontaneum.   && 
+
+Figura 32. Flujo de trabajo de Biotecnología para el proyecto SAM. Convenciones: color verde significa que el paso se ha ejecutado completamente, el color amarillo se ha ejecutado parcialmente y el color rojo no se ha ejecutado.  En los pasos P1 y P3, se hace énfasis con color verde oscuro al punto de integración con el área del SETI, que es clave para los procesos de data sharing y retroalimentación de la información a todas las áreas.
+
+ &&& Objetivo 2: Comparación de los resultados de GWAS, utilizando los genomas de referencia S. bicolor y S. spontaneum, para variables relacionadas con la producción de sacarosa y TCH  && 
+
+Cuadro 21. Resumen del número de marcadores significativos obtenidos de los análisis GWAS para las variables relacionadas con las componentes de sacarosa (color azul) y TCH (color verde)
+
+ &&& Objetivo 3: Resultados de los Análisis GWAS usando S. spontaneum como referencia   && 
+
+
+ &&& El Cuadro 22, resume de manera general los resultados de las asociaciones resultantes de los marcadores obtenidos con S. spontaneum como genoma de referencia y los fenotipos medidos hasta la fecha.  && 
+
+Cuadro 22. Número de variables y marcadores únicos con asociación significativa en cada uno de los ambientes evaluados.
+Cuadro 23.Marcadores asociados a sacarosa que se repiten en los ambientes de Castilla-plantilla, Balsora-plantilla y Balsora-soca1
+Cuadro 24. Marcadores significativos comunes a los ambientes evaluados: plantilla-Castilla, plantilla-Balsora y soca-Balsora.
+Cuadro 25. Asociaciones significativas para resistencia al salivazo y comunes a otros fenotipos.
+
+ &&& El material de Anexos de este informe para una comprensión más profunda de los análisis y resultados se encuentra en: https://drive.google.com/drive/folders/19yOyTuPeVg8_g9kwmfhSoi2uvnQuxNTp?usp=sharing  && 
+
+
+ &&& GÓMEZ, L. A. 2007. Manejo del salivazo Aeneolamia varia en cultivos de caña de azúcar en el valle del río Cauca. Cenicaña (Colombia). Carta Trimestral 29: 10-17.  && 
+
+
+ &&& GRANOBLES, Y. X.; CASTRO, U.; BUSTILLO, A. E.; LASTRA, L. A.; PALMA, A.; GÓMEZ, L. A. 2012. La fecundidad y longevidad de hembras de Salpingogaster nigra Schiner (Diptera: Syrphidae) alimentadas con flores de Parthenium hysterophorus y Emilia sonchifolia. En: tomo 1 Memorias IX congreso de la asociación colombiana de técnicos de la caña de azúcar, TECNICAÑA y VIII Congreso de la Asociación de Técnicos Azucareros de Latinoamérica y El Caribe, ATALAC. Cali, Colombia, septiembre. PP 351–357.   && 
+
+
+ &&& GUTIÉRREZ, Y.; GÓMEZ, L. A. 2009. Algunas experiencias en el manejo del salivazo Aeneolamia varia (Hemíptera: Cercopidae) en el valle del Cauca. PP. 160-167 En: Memorias Tecnicaña – VIII Congreso de la Asociación Colombiana de Técnicos de la Caña de Azúcar.  && 
+
+
+ &&& SALAZAR, G.; BETANCOURTH, G. 2009. Evaluación de extractos de plantas para el manejo de polilla guatemalteca (Tecia solanivora) en cultivos de papa en Nariño, Colombia. Revista Agronomía Colombiana 27: 219-226.  && 
+
+
+ &&& VARGAS, G.; GUTIÉRREZ, Y. 2017. Manejo de las poblaciones de Aeneolamia varia. Carta Informativa Cenicaña. No. 1, p. 18 – 19. Disponible en línea: http://www.cenicana.org/web/ci/informes/item/751-manejo-de-las-poblaciones-del-salivazo-aeneolamia-varia  && 
+
+{'01-1884': 2,
+ '01-1940': 19,
+ '01-678': 4,
+ '01-746': 1,
+ '04-195': 4,
+ '05-230': 2,
+ '05-231': 2,
+ '05-430': 7,
+ '06-489': 2,
+ '06-648': 1,
+ '09-066': 6,
+ '09-235': 1,
+ '09-388': 1,
+ '09-535': 2,
+ '09-702': 1,
+ '09-874': 2,
+ '10-450': 2,
+ '11-595': 2,
+ '11-600': 3,
+ '11-606': 1,
+ '85-92': 20,
+ '93-4418': 1,
+ '93-7510': 1,
+ '93-7711': 2,
+ '97-7170': 4,
+ '98-72': 2,
+ '99-2461': 1,
+ 'Colecci\xc3\xb3n': 1,
+ 'bajo': 1,
+ 'nuevas': 1}
